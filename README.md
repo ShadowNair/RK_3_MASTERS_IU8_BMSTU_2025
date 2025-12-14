@@ -20,5 +20,8 @@ T Monitoring Pro 🚀 — это интерактивный дашборд дл�
 - Студентам и исследователям — как пример современного аналитического дашборда на Python
 
 ## 🛠️Стек технологий ##
-<span style="display: inline-block; background-color: #ff4b4b; color: white; padding: 4px 10px; border-radius: 6px; font-weight: bold; margin-right: 8px;">Python</span>  
-Streamlit • Pandas • NumPy • Plotly • FPDF
+<span style="display: inline-block; background-color: #ff4b4b; color: white; padding: 4px 10px; border-radius: 6px; font-weight: bold; margin: 0 4px 4px 0;">Python</span>
+<span style="display: inline-block; background-color: #0e76a8; color: white; padding: 4px 10px; border-radius: 6px; font-weight: bold; margin: 0 4px 4px 0;">Streamlit</span>
+<span style="display: inline-block; background-color: #150458; color: white; padding: 4px 10px; border-radius: 6px; font-weight: bold; margin: 0 4px 4px 0;">Pandas</span>
+<span style="display: inline-block; background-color: #009688; color: white; padding: 4px 10px; border-radius: 6px; font-weight: bold; margin: 0 4px 4px 0;">Plotly</span>
+<span style="display: inline-block; background-color: #37474f; color: white; padding: 4px 10px; border-radius: 6px; font-weight: bold; margin: 0 4px 4px 0;">FPDF</span>
